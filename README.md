@@ -1,4 +1,4 @@
-# 🤖 Self-Balancing Robot Project
+# 🤖 Assistive Walker
 
 A real-world self-balancing robot using PID control on Arduino and PPO-based reinforcement learning on Raspberry Pi. Built for learning and experimentation, with real-time feedback, training, and logging.
 
