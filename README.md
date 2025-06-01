@@ -1,6 +1,10 @@
 # 🤖 Self-Balancing Robot - Detailed Code Analysis
 
-## if you want simplifed explanation refer easyunderstand.md file
+
+## Before reading this do read 
+## 1. PIDunderstanding.md for easily understanding pid algo we implemented
+## 2. PPOunderstand.md for easily understanding ppo algo
+## 3. if you want simplifed explanation refer easyunderstand.md file
 ## 🧠 Overview
 
 This code implements a self-balancing robot using an MPU6050 IMU sensor and BTS7960 motor drivers. The robot maintains upright balance through sensor fusion, PID control, and adaptive control zones. In addition, it integrates a Proximal Policy Optimization (PPO) based reinforcement learning model that enhances control under dynamic conditions.
